@@ -1,5 +1,5 @@
-#Clasification Perseptron and heb 
-##Data
+# Clasification Perseptron and heb 
+## Data
 ![sampel](./data.png "sampel")
 ## Perseptron
 ![sampel1](./perseptron.png "sampel1")
