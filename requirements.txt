@@ -1,0 +1,5 @@
+pip install numpy 
+pip install pyqt5
+pip install random
+pip install time
+pip install matplotlib
